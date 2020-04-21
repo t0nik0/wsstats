@@ -1,0 +1,5 @@
+These scripts grabs some statistics from WebSphere logs:
+obstime.awk - formatted output;
+obstime_csv.awk - csv output.
+These scripts need a gawk's function asorti()!
+license: Public Domain
